@@ -1,0 +1,373 @@
+{
+  "ShieldWood": {
+    "name": "Wood Shield",
+    "common": {
+      "Type": "Round",
+      "Weight": 4,
+      "Block Force": 30,
+      "Parry Bonus": 1.5,
+      "Movement": "-5%",
+      "Biome": "Meadows"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 6,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 12,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 18,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldWoodTower": {
+    "name": "Wood Tower Shield",
+    "common": {
+      "Type": "Tower",
+      "Weight": 4,
+      "Block Force": 100,
+      "Movement": "-20%",
+      "Biome": "Meadows"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 10,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 16,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 22,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldBoneTower": {
+    "name": "Bone Tower Shield",
+    "common": {
+      "Type": "Tower",
+      "Weight": 4,
+      "Block Force": 100,
+      "Movement": "-20%",
+      "Biome": "Black Forest"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 32,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 38,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 44,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldBronzeBuckler": {
+    "name": "Bronze Buckler",
+    "common": {
+      "Type": "Buckler",
+      "Weight": 3,
+      "Block Force": 30,
+      "Parry Bonus": 2.5,
+      "Movement": "-5%",
+      "Biome": "Black Forest"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 16,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 22,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 28,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldBanded": {
+    "name": "Banded Shield",
+    "common": {
+      "Type": "Round",
+      "Weight": 5,
+      "Block Force": 40,
+      "Parry Bonus": 1.5,
+      "Movement": "-5%",
+      "Biome": "Swamp"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 42,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 48,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 54,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldIronBuckler": {
+    "name": "Iron Buckler",
+    "common": {
+      "Type": "Buckler",
+      "Weight": 4,
+      "Block Force": 30,
+      "Parry Bonus": 2.5,
+      "Movement": "-5%",
+      "Biome": "Swamp"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 28,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 34,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 40,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldIronTower": {
+    "name": "Iron Tower Shield",
+    "common": {
+      "Type": "Tower",
+      "Weight": 4,
+      "Block Force": 100,
+      "Movement": "-20%",
+      "Biome": "Swamp"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 52,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 58,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 64,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldSilver": {
+    "name": "Silver Shield",
+    "common": {
+      "Type": "Round",
+      "Weight": 5,
+      "Block Force": 40,
+      "Parry Bonus": 1.5,
+      "Movement": "-5%",
+      "Biome": "Mountain"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 60,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 66,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 72,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldSerpentscale": {
+    "name": "Serpent Scale Shield",
+    "common": {
+      "Type": "Tower",
+      "Weight": 5,
+      "Block Force": 100,
+      "Parry Bonus": 1.5,
+      "Movement": "-15%",
+      "Biome": "Swamp",
+      "Notes": "Resistant vs Pierce"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 60,
+        "Durability": 250
+      },
+      "2": {
+        "Block Armor": 66,
+        "Durability": 300
+      },
+      "3": {
+        "Block Armor": 72,
+        "Durability": 350
+      }
+    }
+  },
+  "ShieldBlackmetal": {
+    "name": "Black Metal Shield",
+    "common": {
+      "Type": "Round",
+      "Weight": 5,
+      "Block Force": 50,
+      "Parry Bonus": 1.5,
+      "Movement": "-5%",
+      "Biome": "Plains"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 78,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 84,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 90,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldBlackmetalTower": {
+    "name": "Black Metal Tower Shield",
+    "common": {
+      "Type": "Tower",
+      "Weight": 5,
+      "Block Force": 150,
+      "Movement": "-20%",
+      "Biome": "Plains"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 104,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 110,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 116,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldCarapaceBuckler": {
+    "name": "Carapace Buckler",
+    "common": {
+      "Type": "Buckler",
+      "Weight": 5,
+      "Block Force": 50,
+      "Parry Bonus": 2.5,
+      "Movement": "-5%",
+      "Biome": "Mistlands"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 78,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 84,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 90,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldCarapace": {
+    "name": "Carapace Shield",
+    "common": {
+      "Type": "Round",
+      "Weight": 5,
+      "Block Force": 60,
+      "Parry Bonus": 1.5,
+      "Movement": "-5%",
+      "Biome": "Mistlands"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 96,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 102,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 108,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldFlametal": {
+    "name": "Flametal Shield",
+    "common": {
+      "Type": "Round",
+      "Weight": 5,
+      "Block Force": 50,
+      "Parry Bonus": 1.5,
+      "Movement": "-5%",
+      "Biome": "Ashlands"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 114,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 120,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 126,
+        "Durability": 300
+      }
+    }
+  },
+  "ShieldFlametalTower": {
+    "name": "Flametal Tower Shield",
+    "common": {
+      "Type": "Tower",
+      "Weight": 5,
+      "Block Force": 150,
+      "Movement": "-10%",
+      "Biome": "Ashlands"
+    },
+    "levels": {
+      "1": {
+        "Block Armor": 140,
+        "Durability": 200
+      },
+      "2": {
+        "Block Armor": 146,
+        "Durability": 250
+      },
+      "3": {
+        "Block Armor": 152,
+        "Durability": 300
+      }
+    }
+  }
+}

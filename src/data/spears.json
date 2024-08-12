@@ -1,0 +1,34 @@
+{
+  "fang_spear": {
+    "name": "Fang Spear",
+    "common": {
+      "Type": "Spear",
+      "Backstab": 3,
+      "Stagger": 75,
+      "Knockback": 20,
+      "Stamina": 12
+    },
+    "levels": {
+      "1": {
+        "Pierce": 75,
+        "Total Damage": 75,
+        "Durability": 100
+      },
+      "2": {
+        "Pierce": 81,
+        "Total Damage": 81,
+        "Durability": 150
+      },
+      "3": {
+        "Pierce": 87,
+        "Total Damage": 87,
+        "Durability": 200
+      },
+      "4": {
+        "Pierce": 93,
+        "Total Damage": 93,
+        "Durability": 250
+      }
+    }
+  }
+}
